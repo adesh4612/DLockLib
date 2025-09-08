@@ -1,0 +1,8 @@
+1.add below package in service specific customer requirements
+    pip install git+ssh://git@git.druva.org/cloudapps/cloudapplib.git@dlock_v0.0.1#subdirectory=cloudapplib/dlocklib
+
+2. Dlock lib usage + sample consumer(sharepoint task cleanup) can be in below MR:
+https://git.druva.org/druva.com/insync/-/merge_requests/8252/
+
+
+
